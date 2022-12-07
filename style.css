@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.wrapper{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(bisate.jpg);
+    background-size: cover;
+    background-position: center;   
+}
